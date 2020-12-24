@@ -7,9 +7,9 @@ KAIST 17 Seungho Baek [@TheStarkor](https://github.com/TheStarkor)
 NCSOFT Vision AI Lab Human Pose Team Yeongeon Lee
 
 ## Slides
-1. [proposal_presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/proposal_presentation_team1.pdf)
-2. [mid_presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/mid_presentation_team1.pdf)
-3. [final_presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/final_presentation_team1.pdf)
+1. [Proposal Presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/proposal_presentation_team1.pdf)
+2. [Mid Presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/mid_presentation_team1.pdf)
+3. [Final Presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/final_presentation_team1.pdf)
 
 ## Overview
 
