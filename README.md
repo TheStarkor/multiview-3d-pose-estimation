@@ -1,5 +1,5 @@
 # multiview-3d-pose-estimation
-Software Projects for Industrial Collaboration with NCSOFT
+Software Projects for Industrial Collaboration(KAIST CS409) with NCSOFT
 
 ## Overview
 
