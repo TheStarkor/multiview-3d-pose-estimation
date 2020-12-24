@@ -3,7 +3,8 @@ Software Projects for Industrial Collaboration(KAIST CS409) with NCSOFT
 
 ### Members
 KAIST 15 Junkyu Park  [@junQ](https://github.com/jade227)  
-KAIST 17 Seungho Baek [@TheStarkor](https://github.com/TheStarkor)
+KAIST 17 Seungho Baek [@TheStarkor](https://github.com/TheStarkor)  
+NCSOFT Vision AI Lab Human Pose Team Yeongeon Lee
 
 ## Slides
 1. [proposal_presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/proposal_presentation_team1.pdf)
