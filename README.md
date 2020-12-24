@@ -1,12 +1,17 @@
 # multiview-3d-pose-estimation
 Software Projects for Industrial Collaboration(KAIST CS409) with NCSOFT
 
-## Overview
+### Members
+KAIST 15 Junkyu Park  [@junQ](https://github.com/jade227)  
+KAIST 17 Seungho Baek [@TheStarkor](https://github.com/TheStarkor)
 
 ## Slides
 1. [proposal_presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/proposal_presentation_team1.pdf)
 2. [mid_presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/mid_presentation_team1.pdf)
 3. [final_presentation](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/slides/final_presentation_team1.pdf)
+
+## Overview
+
 
 ## Contents
 1. [Paper Review (HMR, SMPLify, SPIN)]()
