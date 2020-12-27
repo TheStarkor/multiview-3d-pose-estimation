@@ -16,6 +16,9 @@ NCSOFT Vision AI Lab Human Pose Team Yeongeon Lee
 
 ## Contents
 1. [Paper Review (HMR, SMPLify, SPIN)]()
+   + [HMR](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/paper%20review/HMR.md)
+   + [SMPLify](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/paper%20review/SMPLify.md)
+   + [SPIN](https://github.com/TheStarkor/multiview-3d-pose-estimation/blob/main/paper%20review/Learning%20to%20reconstruct%203D%20human%20pose%20and%20shape%20via%20model.pdf)
 2. [Environment Setting & run SPIN demo]()
 3. [2D & 3D parameters]()
 4. [Pre-processing]()
